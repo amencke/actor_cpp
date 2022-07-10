@@ -5,6 +5,7 @@
 #include <mutex>
 #include <exception>
 #include <iostream>
+#include <condition_variable>
 
 template <typename T>
 class BoundedThreadsafeQueue

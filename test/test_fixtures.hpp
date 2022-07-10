@@ -1,4 +1,5 @@
 #include <type_traits>
+#include <algorithm>
 
 struct Message
 {
