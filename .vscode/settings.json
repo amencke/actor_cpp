@@ -89,7 +89,9 @@
         "hash_map": "cpp",
         "hash_set": "cpp",
         "__memory": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "*.tcc": "cpp",
+        "memory_resource": "cpp"
     },
     "testMate.cpp.test.executables": "{build,Build,BUILD,out,Out,OUT}/**/*{test,Test,TEST}*",
     "editor.tokenColorCustomizations": {
